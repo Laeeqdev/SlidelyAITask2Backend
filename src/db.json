@@ -1,0 +1,25 @@
+{
+  "submissions": [
+    {
+      "name": "Mo_Laeeq",
+      "email": "mo@gmail.com",
+      "phone": "123456789",
+      "github_link": "Laeeqdev",
+      "stopwatch_time": "00:00:10"
+    },
+    {
+      "name": "Zaid",
+      "email": "zaid@gmail.com",
+      "phone": "123456782",
+      "github_link": "zaid",
+      "stopwatch_time": "00:00:29"
+    },
+    {
+      "name": "Bholu",
+      "email": "bholu@gmail.com",
+      "phone": "123456782",
+      "github_link": "bholu",
+      "stopwatch_time": "00:00:39"
+    }
+  ]
+}
